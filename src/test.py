@@ -7,13 +7,13 @@ try:
                                          user='root',
                                          password='root')
 
-    mySql_insert_query = "SELECT DISTINCT movie_name FROM entertainer_details.entertainer_films"
+    mySql_insert_query = "SELECT DISTINCT movie_name FROM entertainer_details.kollywood_entertainer_films;"
 
     cursor = connection.cursor()
     cursor.execute(mySql_insert_query)
     result = cursor.fetchall()
     print(len(result))
-    print(result[2085])
+    print(result[1341])
     '''for i in range(2000, len(result)):
         if "Dead Reckoning" == result[i][0]:
             print("index:", i)

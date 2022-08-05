@@ -49,8 +49,8 @@ def add_movie_details():
     print('Time taken to finish:', time.time()-now )
 
 if __name__ == "__main__":
-    # add_person_details()
-    # add_person_films()
-    # add_person_awards()
-    # add_salary_details()
+    add_person_details()
+    add_person_films()
+    add_person_awards()
+    add_salary_details()
     add_movie_details()
