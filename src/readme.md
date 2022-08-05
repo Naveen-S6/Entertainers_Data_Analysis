@@ -35,7 +35,7 @@ Methods in this class takes the Person object as input while calling the methods
 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/Person_class.py)
 
----
+
 ## Movie_class Python File
 
 ### Movie
@@ -51,7 +51,7 @@ Methods in this class takes the Movie object as input while calling the methods.
 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/Movie_class.py)
 
----
+
 ## Salary_class Python File
 
 This class takes a input of person salary dictionary object which is extracted from person object file.
@@ -59,7 +59,7 @@ I have regex pattern matching to extract the movie_name, year and salary of the 
 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/salary_class.py)
 
----
+
 ## Awards_class Python File
 
 This class takes input of person awards dictionary object which is extracted from person object file.
@@ -67,14 +67,14 @@ Methods of this class is used to extract the specific details of the awards.
 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/awards_class.py)
 
----
+
 ## Store_to_SQL Python File.
 
 This class is used to make connection to SQL and store the extracted details of the entertainers and movies to the local database.
 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/Store_to_SQL.py)
 
----
+
 ## Operator
 
 This class is used to combine all the classes and execute the code for the given entertainers and movies.
