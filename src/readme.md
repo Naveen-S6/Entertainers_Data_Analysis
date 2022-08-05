@@ -75,7 +75,7 @@ This class is used to make connection to SQL and store the extracted details of 
 [Code](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/src/Store_to_SQL.py)
 
 
-## Operator
+## Operator Python File
 
 This class is used to combine all the classes and execute the code for the given entertainers and movies.
 
