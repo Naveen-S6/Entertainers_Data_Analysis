@@ -1,4 +1,0 @@
-IMDbPY
-openpyxl
-pandas
-mysql-connector-python
