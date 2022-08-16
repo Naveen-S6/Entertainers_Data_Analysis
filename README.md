@@ -67,7 +67,7 @@ for the detailed architecture explanation, you can refer this file - [Architectu
 
 ## Report 📈
 
-####Live report - [Link](https://www.novypro.com/project/entertainers-data-analysis)
+#### Live report - [Link](https://www.novypro.com/project/entertainers-data-analysis)
 
 ### Homepage 
 
