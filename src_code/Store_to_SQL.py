@@ -1,9 +1,9 @@
 import mysql.connector
-from src.Extract_data import Entertainer
-from src.Movie_class import Movie
-from src.Movie_class import Movie_ob
-from src.awards_class import Awards
-from src.salary_class import Salary
+from src_code.Extract_data import Entertainer
+from src_code.Movie_class import Movie
+from src_code.Movie_class import Movie_ob
+from src_code.awards_class import Awards
+from src_code.salary_class import Salary
 class Store:
 
     def insert_person_details_into_sql(self, name, database_name, table_name):

@@ -1,5 +1,5 @@
-from src.Movie_class import Movie_ob
-from src.Person_class import PersonOb
+from src_code.Movie_class import Movie_ob
+from src_code.Person_class import PersonOb
 
 class Awards:
     def get_award_name(self, per_award_obj):

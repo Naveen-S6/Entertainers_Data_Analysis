@@ -1,7 +1,7 @@
-from src.Person_class import Person
-from src.Person_class import PersonOb
-from src.Movie_class import Movie
-from src.Movie_class import Movie_ob
+from src_code.Person_class import Person
+from src_code.Person_class import PersonOb
+from src_code.Movie_class import Movie
+from src_code.Movie_class import Movie_ob
 
 class Entertainer:
     def __init__(self, name):

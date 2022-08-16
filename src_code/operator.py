@@ -1,4 +1,4 @@
-from src.Store_to_SQL import Store
+from src_code.Store_to_SQL import Store
 import pandas as pd
 import time
 
