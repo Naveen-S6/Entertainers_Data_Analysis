@@ -4,7 +4,7 @@
 
 Analyzing details about the entertainers by populating data and creating a dashboard in PowerBi
 
-## Problem statement 
+## Problem statement ❓
 
 Normal life can be stressful, and people need to relax. Being entertained by others is a wonderful way to take some time out of life. It can reduce stress and make life's issues easier to face. The media and entertainment industry consists of film, television, radio and print. These segments include movies, TV shows, radio shows, news, music, newspapers, magazines, and books. Entertainment industry is a group of sub-industries devoted to entertainment. Entertainment industry is used to describe the mass media companies that control the distribution and manufacture of mass media entertainment.
 
@@ -59,7 +59,7 @@ Normal life can be stressful, and people need to relax. Being entertained by oth
 
 for the detailed architecture explanation, you can refer this file - [Architecture](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/PDFs/Architecture.pdf)
 
-## Report
+## Report 📈
 
 Live PowerBI report [link]
 
@@ -77,7 +77,7 @@ Live PowerBI report [link]
 <img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/movie_analysis_page.png">
 
 
-## Few Insights from the Report :
+## Few Insights from the Report: 💡
 
 - Meryl Streep is the entertainer who received the highest number of awards among other
 entertainers 
