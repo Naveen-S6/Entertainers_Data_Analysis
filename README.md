@@ -1,10 +1,10 @@
 # Entertainers_Data_Analysis
 
-### Objective
+### Objective 🎯
 
 Analyzing details about the entertainers by populating data and creating a dashboard in PowerBi
 
-### Dataset
+### Dataset 📀
 
 #### Provided data
   
@@ -12,9 +12,12 @@ Analyzing details about the entertainers by populating data and creating a dashb
   2. **Entertainer-Breakthrough Info:** It consists of details about the 70 entertainers like breakthrough year, first major award, breakthrough movie name 
   3. **Entertainer-Last major work Info:** It consists of the details about the 70 entertainers last major  work and if died, Year of death details
 
-#### Data populating flow
+#### Data populating flow 
 
 <img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/main/Documents/Populating_data_flow.png">
+
+- To understand the design and flow of the code, I have explained the code design in this page [Code design](https://github.com/Naveen-S6/Entertainers_Data_Analysis/tree/main/src_code)
+- The beauty of designing a code is, you can use them for other data as well, I have populated some extra data for Indian industry entertainers, which I didn't use it in this project. You can find the sql dump in this page [SQL dump](https://github.com/Naveen-S6/Entertainers_Data_Analysis/tree/main/Populated_Data/Indian%20Entertainers%20dataset)
 
 #### Populated data
 
@@ -44,4 +47,12 @@ Analyzing details about the entertainers by populating data and creating a dashb
      - Name: Entertainer’s name 
      - Movie_name: Movie name of the salary they received 
      - Year: Movie released year 
-     - Salary: Amount they received for that movi
+     - Salary: Amount they received for that movie
+
+### Architecture
+
+<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/Architecture.png">
+
+for the detailed architecture explanation, you can refer this file - [Architecture](https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/PDFs/Architecture.pdf)
+
+
