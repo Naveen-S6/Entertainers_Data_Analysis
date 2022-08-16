@@ -1,4 +1,10 @@
-# Entertainers_Data_Analysis
+# Entertainers Data Analysis - iNeuron Internship
+
+## Project overview
+
+I have done this project as part of the iNeuron Internship. If you are looking for some remote internship opportunity you can check out [iNeuron Internship portal](https://internship.ineuron.ai/), 
+where you can find internship for different technologies in different domains.
+
 
 ## Objective 🎯
 
@@ -61,8 +67,6 @@ for the detailed architecture explanation, you can refer this file - [Architectu
 
 ## Report 📈
 
-Live PowerBI report [link]
-
 ### Homepage 
 
 <img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/home_page.png">
@@ -76,6 +80,10 @@ Live PowerBI report [link]
 
 <img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/51b341efba1dfe4b1c5aff99ab04bd43a6c958ad/Documents/movie_analysis_page.png">
 
+
+## Live Report
+
+<iframe title="Entertainer_Report - Actors" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjczNDQ0NzAtYzAyNC00ZTM1LThkZDgtNzI0NmFjNzc5NDdiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection58411b2886201a08da9d" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Few Insights from the Report: 💡
 
