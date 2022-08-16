@@ -7,7 +7,7 @@ df = pd.read_csv(r"D:\Naveen\Entertainer_PowerBi\Populated_Data\Sandalwood_actor
 
 class Operator:
 
-    def add_person_details():
+    def add_person_details(self):
         for i in range(len(df)):
             #ent_name = df.Entertainer[i]
             ent_name = df.Name[i]
@@ -16,7 +16,7 @@ class Operator:
             s.insert_person_details_into_sql(ent_name, "entertainer_details", "sandalwood_entertainer_basics_details")
             print("Done-->", ent_name)
 
-    def add_person_films():
+    def add_person_films(self):
         for i in range(len(df)):
             #ent_name = df.Entertainer[i]
             ent_name = df.Name[i]
@@ -25,7 +25,7 @@ class Operator:
             s.insert_list_of_movies(ent_name, "entertainer_details", "sandalwood_entertainer_films")
             print("Done--->", ent_name)
 
-    def add_person_awards():
+    def add_person_awards(self):
         for i in range(len(df)):
             #ent_name = df.Entertainer[i]
             ent_name = df.Name[i]
@@ -34,7 +34,7 @@ class Operator:
             s.insert_person_award_details(ent_name, "entertainer_details", "sandalwood_entertainer_awards")
             print("Done--->", ent_name)
 
-    def add_salary_details():
+    def add_salary_details(self):
         for i in range(len(df)):
             #ent_name = df.Entertainer[i]
             ent_name = df.Name[i]
@@ -43,7 +43,7 @@ class Operator:
             s.insert_person_salary_details(ent_name, "entertainer_details", "sandalwood_entertainer_salary")
             print("Done--->", ent_name)
 
-    def add_movie_details():
+    def add_movie_details(self):
         s = Store()
         now = time.time()
         print("Starting the opertaion of adding movie details")
